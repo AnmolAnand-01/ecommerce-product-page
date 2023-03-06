@@ -96,24 +96,6 @@ p{
     background-image: url("./color-image/white.png");
   }
 
-/* .container-right{
-  position: relative;
-  left: 500px;
-  top: 100px;
-  right: 0;
-  grid-area: cr;
-  width: 50%;
-} */
-
-/* .container-left{
-  width: 50%;
-  /* height: inherit; 
-  position: absolute;
-  top: 100px;
-  left: 0;
-  grid-area: cl;
-} */
-
 .car-img {
   position: absolute;
   top: 100px;
